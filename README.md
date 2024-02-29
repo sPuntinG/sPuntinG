@@ -20,6 +20,8 @@ Explore my collection of cool visualizations, including ggplot plots from [TidyT
 Have a look at the materials from my R workshops! I focusing on data management, data wrangling, and data exploration (EDA) with the beautiful R Tidyverse. I had a great time creating and presenting them, and I would love to further develop this activity, so get in touch if you’re looking for a collaboration or have ideas for similar projects!
     - [R for Reproducible Research and Data Wrangling](https://github.com/sPuntinG/BiolPostgrad_Rworkshop2023)
     - [Intro to R for Reproducible Research](https://github.com/sPuntinG/ICRSsc_workshop_2021)
+    - See what people had to say about the workshops on Twitter on [this](https://twitter.com/SelmaMezger/status/1466530183817531397), [this](https://twitter.com/theamoule/status/1466499092708798466), and [this](https://twitter.com/dorkyM/status/1625667017373261826) posts 💙💙💙
+
 
 4. **Scientific Data Analysis** 🧪  
 Discover repositories housing data analysis pipelines for my public research projects.
