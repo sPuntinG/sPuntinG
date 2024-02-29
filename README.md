@@ -1,4 +1,4 @@
-# 🌏 Hey everyone, this is Giulia! 🌍
+# 🌏 Hey everyone, Giulia here! 🌍
 
 Quantitative biologist by training, I fell in love with (R) coding while working on my scientific research projects. 
 Now focused on advancing my coding and analytical skills for a career in Data Science. 
