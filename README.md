@@ -1,7 +1,7 @@
 # 🌏 Hey everyone, Giulia here! 🌍
 
 Quantitative biologist by training, I fell in love with (R) coding while working on my scientific research projects. 
-Now focused on advancing my coding and analytical skills for a career in Data Science. 
+Now I'm focusing on advancing my coding and analytical skills. 
 Passionate about Data Analysis and Visualization. 
 Excited about using data to tackle real-world challenges and drive positive change.
 
