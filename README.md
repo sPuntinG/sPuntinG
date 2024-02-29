@@ -40,7 +40,7 @@ I'm eager to expand my skill set and collaborate on projects that make a differe
 - Machine learning models for predictive analytics
 - `Python` for versatile data analysis
 
-Feel free to reach out if you have an exciting idea for collaboration or want to discuss the intersection of data science and environmental conservation. Let's work together to drive positive change!
+Feel free to reach out if you have an exciting idea for a collaboration or a discussion!
 
 Connect with me or endorse my skills on [LinkedIn](https://www.linkedin.com/in/giulia-puntin-spunting/)
 
