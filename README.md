@@ -34,6 +34,7 @@ Discover repositories housing data analysis pipelines for my public research pro
 
 I'm eager to expand my skill set and collaborate on projects that make a difference. Here are some areas I'm keen to explore:
 
+- Contribute to an `R` package 📦
 - `SQL` to scale up data wrangling speed and capacity
 - Creating visually engaging websites to showcase impactful data storytelling: `Hugo` (`Go`), `D3`, `CSS`, `HTML`, `Java`
 - Machine learning models for predictive analytics
