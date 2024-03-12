@@ -1,12 +1,12 @@
 # 🌏 Hey everyone, Giulia here! 🌍
 
-Quantitative biologist by training, I fell in love with (R) coding while working on my scientific research projects. 
+Quantitative biologist by training, I fell in love with (`R`) coding while working on my scientific research projects. 
 Now I'm focusing on advancing my coding and analytical skills. 
 Passionate about Data Analysis and Visualization. 
 Excited about using data to tackle real-world challenges and drive positive change.
 
 ## My Skills 🛠️
-Every step of my coding journey has been self-taught, with invaluable assistance from the awesome online community. I've developed my skills while working on real datasets and analytical problems as part of my academic research work.<br>
+My coding journey has been predominantly self-taught. I've developed my skills while working on real datasets and analytical problems as part of my academic research work.<br>
 `#R` `#RTidyverse` `#ggplot` `#DataVisualization`
 `#Communication` `#ScientifcWriting` 
 `#Bioinformatics` `#Microbiome` `#MarineBiology`
@@ -35,9 +35,9 @@ Check out the repos of the data analysis pipelines from some of my published res
 I'm eager to expand my skill set and collaborate on projects that make a difference. Here are some areas I'm keen to explore/expand:
 
 - 📦 Contribute to an `R` package 
-- 🛠️ `SQL` to scale up data wrangling speed and capacity
+- 🐬 `SQL` to scale up data wrangling speed and capacity
 - 📊 Creating visually engaging websites to showcase impactful data storytelling: `Hugo` (`Go`), `D3`, `CSS`, `HTML`, `Java`
-- 🤖Machine learning models for predictive analytics
+- 🤖 Machine learning models for predictive analytics
 - 🐍 `Python` for versatile data analysis
 
 🤙 Feel free to reach out if you have an exciting idea for a collaboration or a discussion!
