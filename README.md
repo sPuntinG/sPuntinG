@@ -23,7 +23,7 @@ Have a look at the materials from my R workshops! I focusing on data management,
     - See what people had to say about the workshops on Twitter on [this](https://twitter.com/SelmaMezger/status/1466530183817531397), [this](https://twitter.com/theamoule/status/1466499092708798466), and [this](https://twitter.com/dorkyM/status/1625667017373261826) posts 💙💙💙
 
 
-4. **Scientific Data Analysis** 🧪
+4. **Scientific Data Analysis** 🧪   
 Check out the repos of the data analysis pipelines from some of my published research projects.
     - Microbiome analysis in `R`:["The bacterial microbiome of symbiotic and menthol-bleached polyps of *Galaxea fascicularis* in captivity"](https://github.com/sPuntinG/Galaxea_Microbiome_PCI)
     - Coral physiological data analysis ["The reef-building coral *Galaxea fascicularis*: a new model system for coral symbiosis research"](https://github.com/sPuntinG/Galaxea_Coral_Model/tree/main)
