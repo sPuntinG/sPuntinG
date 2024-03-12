@@ -32,17 +32,17 @@ Check out the repos of the data analysis pipelines from some of my published res
 
 ## Future Plans & Collaboration Interests 💡
 
-I'm eager to expand my skill set and collaborate on projects that make a difference. Here are some areas I'm keen to explore:
+I'm eager to expand my skill set and collaborate on projects that make a difference. Here are some areas I'm keen to explore/expand:
 
-- Contribute to an `R` package 📦
-- `SQL` to scale up data wrangling speed and capacity
-- Creating visually engaging websites to showcase impactful data storytelling: `Hugo` (`Go`), `D3`, `CSS`, `HTML`, `Java`
-- Machine learning models for predictive analytics
-- `Python` for versatile data analysis
+- 📦 Contribute to an `R` package 
+- 🛠️ `SQL` to scale up data wrangling speed and capacity
+- 📊 Creating visually engaging websites to showcase impactful data storytelling: `Hugo` (`Go`), `D3`, `CSS`, `HTML`, `Java`
+- 🤖Machine learning models for predictive analytics
+- 🐍 `Python` for versatile data analysis
 
-Feel free to reach out if you have an exciting idea for a collaboration or a discussion!
+🤙 Feel free to reach out if you have an exciting idea for a collaboration or a discussion!
 
-Connect with me or endorse my skills on [LinkedIn](https://www.linkedin.com/in/giulia-puntin-spunting/)
+🔗 Connect with me or endorse my skills on [LinkedIn](https://www.linkedin.com/in/giulia-puntin-spunting/)
 
 And if you feel like supporting my work:
 <div align="center">
