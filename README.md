@@ -14,7 +14,7 @@ My coding journey has been predominantly self-taught. I've developed my skills w
 ## What I Do 🎯
 
 1. **Data Visualization Portfolio** 📊  
-Explore my collection of cool visualizations, including ggplot plots from [TidyTuesday](https://github.com/sPuntinG/TidyTuesday) contributions. Stay tuned for the upcoming addition of an R Shiny dashboard to showcase dynamic data interactions.
+Explore my collection of cool visualizations, including ggplot plots from [TidyTuesday](https://github.com/sPuntinG/TidyTuesday) contributions. Stay tuned for the upcoming additions of R Shiny dashboards for dynamic data interactions!
 
 2. **Workshops & Presentations** 🎓  
 Have a look at the materials from my R workshops! I focusing on data management, data wrangling, and data exploration (EDA) with the beautiful R Tidyverse. I had a great time creating and presenting them, and I would love to further develop this activity, so get in touch if you’re looking for a collaboration or have ideas for similar projects!
@@ -24,10 +24,13 @@ Have a look at the materials from my R workshops! I focusing on data management,
 
 
 4. **Scientific Data Analysis** 🧪   
-Check out the repos of the data analysis pipelines from some of my published research projects.
+Check out the repos of the data analysis pipelines from some of my published research projects: 
     - Microbiome analysis in `R`:["The bacterial microbiome of symbiotic and menthol-bleached polyps of *Galaxea fascicularis* in captivity"](https://github.com/sPuntinG/Galaxea_Microbiome_PCI)
     - Coral physiological data analysis ["The reef-building coral *Galaxea fascicularis*: a new model system for coral symbiosis research"](https://github.com/sPuntinG/Galaxea_Coral_Model/tree/main)
-    - Seawater chemistry analysis: [alkalinity calculations](https://github.com/sPuntinG/TA_Gran)
+    - Seawater chemistry analysis: [alkalinity calculations](https://github.com/sPuntinG/TA_Gran)      
+
+   You can also explore my **full publication list** on [Google Scholar](https://scholar.google.co.nz/citations?user=827VF-YAAAAJ&hl=en).
+
     
 
 ## Future Plans & Collaboration Interests 💡
