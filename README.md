@@ -14,7 +14,7 @@ My coding journey has been predominantly self-taught. I've developed my skills w
 ## What I Do 🎯
 
 1. **Data Visualization Portfolio** 📊  
-Explore my collection of cool visualizations, including ggplot plots from [TidyTuesday](https://github.com/sPuntinG/TidyTuesday) contributions. Stay tuned for the upcoming additions of R Shiny dashboards for dynamic data interactions!
+Explore my collection of cool visualizations, including ggplot plots from [TidyTuesday](https://github.com/sPuntinG/TidyTuesday) contributions, and [R Shiny Dashboards](https://github.com/sPuntinG/ShinyDashboards/tree/main) for interactive data viz!
 
 2. **Workshops & Presentations** 🎓  
 Have a look at the materials from my R workshops! I focusing on data management, data wrangling, and data exploration (EDA) with the beautiful R Tidyverse. I had a great time creating and presenting them, and I would love to further develop this activity, so get in touch if you’re looking for a collaboration or have ideas for similar projects!
