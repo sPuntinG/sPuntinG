@@ -29,7 +29,7 @@ Check out the repos of the data analysis pipelines from some of my published res
     - Coral physiological data analysis ["The reef-building coral *Galaxea fascicularis*: a new model system for coral symbiosis research"](https://github.com/sPuntinG/Galaxea_Coral_Model/tree/main)
     - Seawater chemistry analysis: [alkalinity calculations](https://github.com/sPuntinG/TA_Gran)      
 
-   You can also explore my **full publication list** on [Google Scholar](https://scholar.google.co.nz/citations?user=827VF-YAAAAJ&hl=en).
+   You can also explore my **full publication list** on [Google Scholar](https://scholar.google.co.nz/citations?user=827VF-YAAAAJ&hl=en) 📚
 
     
 
